@@ -1,4 +1,4 @@
-variable "ami"{
+variable ami{
     default="ami-001089eb624938d9f"
             }
 variable type{
